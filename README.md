@@ -1,4 +1,4 @@
-# Welcome to my Rythim reactor Beats Project for FreeCodeCampe
+# Welcome to my Rythm reactor Beats Project for FreeCodeCampe
 
 ## Project info
 
